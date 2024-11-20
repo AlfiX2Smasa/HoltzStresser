@@ -1,0 +1,20 @@
+input, select {
+  background: #1e293b;
+  color: #e2e8f0;
+  border: 1px solid #64748b;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button {
+  background: #3b82f6;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+button:hover {
+  background: #2563eb;
+}
